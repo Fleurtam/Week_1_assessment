@@ -1,0 +1,19 @@
+new_variable = "variable"
+
+:symbol
+string "string"
+integer 1
+float 1.0
+
+Ferrari = {wheels: 4, max_speed: 200, color: 'red'}
+BMW = {wheels: 4, max_speed: 300, color: 'blue'}
+
+car_array = ['Ferrari', 'BMW']
+car_array[1]
+car_aray[1][:color]
+
+Question 4
+rspec --init
+
+testing makes you think about the code before your start writing it
+so you get more efficient and effective code.
